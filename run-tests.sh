@@ -8,3 +8,4 @@ do
         fi
 done
 echo "All tests passed"
+false
